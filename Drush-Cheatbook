@@ -1,0 +1,21 @@
+1. drush status - To check the details of the drupal installtion.
+
+2. drush pm-download [ project name ] - To download the drupal project.
+
+3. drush en [ project name ]  - To enable the module/project.
+
+4. drush dis [ project name ] - To disable the module/project.
+
+5. drush pm-uninstall [ project name ] - To uninstall the module/project completely .
+
+6. drush up -n | grep available  - To check available updates.
+
+7. drush up [name] - To upgrade only. 
+
+8. drush upc [name] - To update the codebase and then run update.php 
+			OR USE 
+
+9. drush updatedb [name]  - To update the database update script .
+
+10. drush up drupal - To update the drupal core . 
+
